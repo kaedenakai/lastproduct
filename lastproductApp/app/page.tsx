@@ -32,7 +32,7 @@ export default function Page() {
               持続可能な森林経営を通じて、<br />
               地域と環境の調和ある発展を目指します。
             </p>
-            <Link href="/content1">
+            <Link href="/projects">
               <button className="bg-teal-500 text-white px-8 py-3 rounded-full text-lg hover:bg-teal-600 transition-colors">
                 プロジェクトを見る
               </button>

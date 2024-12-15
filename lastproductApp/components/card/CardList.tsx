@@ -13,7 +13,7 @@ const CardList = ({ contents }: CardListProps) => {
   const router = useRouter();
 
   const handleCardClick = (id: string) => {
-    router.push(`/content1/${id}`);
+    router.push(`/projects/${id}`);
   };
 
   return (
